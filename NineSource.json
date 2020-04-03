@@ -10,7 +10,7 @@
       "tintColor": "a83cc5",
       "imageURL": "https://github.com/IMINCANE711/NineAltStoreSource/blob/master/NineAnimator.png?raw=true",
       "appID": "org.haxx.nine-ios",
-      "date": "2020-03-4T14:00:00-07:00",
+      "date": "2019-03-4T14:00:00-07:00",
       "notify": true
     }
   ],
@@ -21,7 +21,7 @@
       "developerName": "Marcus Zhou",
       "subtitle": "A simple yet elegant way of waching anime on IOS.",
       "version": "1.2.6-4",
-      "versionDate": "2020-04-24T14:00:00-07:00",
+      "versionDate": "2019-04-24T14:00:00-07:00",
       "versionDescription": "First Release",
       "downloadURL": "https://github.com/SuperMarcus/NineAnimator/releases/download/1.2.6-4/NineAnimator_1.2.6_Build_4.ipa",
       "localizedDescription": "Nine Animator is a simple yet elegant way of waching anime on your favorite anime websites. NineAnimator is a free and open source anime watching app for iOS.",
