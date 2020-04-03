@@ -8,9 +8,9 @@
       "identifier": "NineAnime",
       "caption": "NineAnimator finally on AltStore",
       "tintColor": "a83cc5",
-      "imageURL": "https://raw.githubusercontent.com/IMINCANE711/NineAltStoreSource/master/NineAnimator.png?token=AHBEI4F4WAINV3EYXECMOZ26Q5NGG",
+      "imageURL": "https://github.com/IMINCANE711/NineAltStoreSource/blob/master/NineAnimator.png?raw=true",
       "appID": "org.xbmc.nine-ios",
-      "date": "2020-04-3T14:00:00-07:00",
+      "date": "2020-03-4T14:00:00-07:00",
       "notify": true
     }
   ],
@@ -25,7 +25,7 @@
       "versionDescription": "First Release",
       "downloadURL": "https://github.com/SuperMarcus/NineAnimator/releases/download/1.2.6-4/NineAnimator_1.2.6_Build_4.ipa",
       "localizedDescription": "Nine Animator is a simple yet elegant way of waching anime on your favorite anime websites. NineAnimator is a free and open source anime watching app for iOS.",
-      "iconURL": "https://raw.githubusercontent.com/IMINCANE711/NineAltStoreSource/master/NineAnimator.png?token=AHBEI4F4WAINV3EYXECMOZ26Q5NGG",
+      "iconURL": "https://github.com/IMINCANE711/NineAltStoreSource/blob/master/NineAnimator.png?raw=true",
       "tintColor": "a83cc5",
       "size": 83034112,
       "beta": true,
